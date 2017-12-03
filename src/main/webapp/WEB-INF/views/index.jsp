@@ -134,11 +134,11 @@ a:hover{color:#FA5900;text-decoration:underline}:focus{outline:0}
 .c_h{display:none}
 .b1 {text-align:center;margin-top:9px;margin-top:10px\9;height:32px}
 </style>
-<link rel="shortcut icon" type="image/x-icon" href="/BCScan/static/images/logo/favicon.ico" media="screen" />
+<link rel="shortcut icon" type="image/x-icon" href="/bcscan/static/images/logo/favicon.ico" media="screen" />
 <base target="_blank"></base>
 </head>
 <body>
-    <script src="/BCScan/static/js/date.js"></script>
+    <script src="/bcscan/static/js/date.js"></script>
     <div class="t" l="top">
         <div class="ti">
             <div id="stw" class="c_sd c_h">
@@ -165,7 +165,7 @@ a:hover{color:#FA5900;text-decoration:underline}:focus{outline:0}
         </div>
     </div>
     <div class="h cf" l="header">
-        <a href="index.html" class="hl " hidefocus="true"> 二进制导航 <img src="/BCScan/assets/images/logo/logo.png"/> </a>
+        <a href="index.html" class="hl " hidefocus="true"> 二进制导航 <img src="/bcscan/static/images/logo/logo.png"/> </a>
         <div>
             <form action="http://www.baidu.com/baidu" target="_blank">
                 <table bgcolor="#FFFFFF">
